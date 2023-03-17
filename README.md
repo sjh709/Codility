@@ -4,4 +4,4 @@
 
 ### 🌱 
 
-* Iterations: [Java 코드](/Java/Lesson1.java)
+* Iterations: [Java 코드](/Java/Lesson_1.java)
