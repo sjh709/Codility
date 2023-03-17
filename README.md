@@ -4,4 +4,4 @@
 
 ### 🌱 
 
-* Iterations-BinaryGap: [Java 코드](/Java/Lesson_1.java)
+* Iterations-BinaryGap: [Java 코드](/Java/BinaryGap.java)
